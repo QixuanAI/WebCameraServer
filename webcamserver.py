@@ -20,7 +20,7 @@ INDEX = """
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>display</title>
+    <title>WebCamera</title>
 </head>
 <body>
     <canvas id="canvas"></canvas>
