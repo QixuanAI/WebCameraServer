@@ -2,8 +2,8 @@
 '''
 Description : Build a web camera server quickly.
 Author      : qxairobot@163.com
-Date        : 2021-06-30 15:22:49
-Refer to    : https://github.com/QixuanAI
+Date        : 2021-06-30
+Refer to    : https://github.com/QixuanAI/WebCameraServer
 '''
 
 from __future__ import print_function, absolute_import
